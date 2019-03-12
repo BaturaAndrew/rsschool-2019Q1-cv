@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #C3C6C2;
+}
+
+.wrapper {
+  font-family: 'Poppins', sans-serif;
+  width: 1024px;
+  margin: 0 auto;
+  background: #F1F8FF;
+  /* font: 16px Arial, sans-serif; */
+  padding: 80px 80px 0px 80px;
+}
+
+h1 {
+  color: rgb(40, 3, 124);
+}
+
+h2 {
+  color: rgb(0, 172, 206);
+}
+
+.resume_photo {
+  display: inline-block;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.gmail a,
+.skype a,
+.phone {
+  color: rgb(127, 109, 227);
+  text-decoration: none;
+}
+
+.gmail:before {
+  content: url(asserts/images/contacts/gmai32.png);
+  position: relative;
+  left: 0px;
+  margin-right: 5px;
+  top: 8px;
+}
+
+.skype:before {
+  content: url(asserts/images/contacts/skype32.png);
+  position: relative;
+  left: 0px;
+  margin-right: 5px;
+  top: 8px;
+}
+
+.phone:before {
+  content: url(asserts/images/contacts/phone32.png);
+  position: relative;
+  left: 0px;
+  margin-right: 5px;
+  top: 8px;
+}
+
+.motivation,
+.skills,
+.experience,
+.education,
+.english {
+  /* border: 1px solid red; */
+  /* margin-right: 50px; */
+  padding: 20px 0px;
+}
+
+.skills ul {
+  margin-left: 27px;
+}
+
+footer { 
+  width: 100%;
+  /* border: 1px solid red; */
+  margin-top: 50px; 
+  /* background-color: grey; */
+}
