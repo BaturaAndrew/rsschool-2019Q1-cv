@@ -9,6 +9,7 @@
    - JS,
    - CSS,
    - HTML
+
 ## About my experience.
    I am working at the united institute of informatic problems,  
    in the laboratory of automation of technological processes.  
