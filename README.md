@@ -1,4 +1,4 @@
 ## md
-https://BaturaAndrew.github.io/rsschool-2019Q1-cv/cv.
+https://BaturaAndrew.github.io/rsschool-cv/cv.
 ## html-css
-https://baturaandrew.github.io/rsschool-2019Q1-cv/
+https://baturaandrew.github.io/rsschool-cv/
