@@ -13,7 +13,7 @@
 ## About my experience.
    I am working at the united institute of informatic problems,  
    in the laboratory of automation of technological processes.  
-   I develop software for automatic creating sketches of technological operations.  
+   I developed software for automatic creating sketches of technological operations.  
    Currenly I am working for [Organizational and Technological Solutions](www.otr.ru/) as software engineer.  
    I also studied independently node.js, an example in the [link](https://github.com/BaturaAndrew/gallery-task)  
 ## Education.
